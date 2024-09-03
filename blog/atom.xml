@@ -11,7 +11,7 @@ layout: feed
  <id>http://gaocheng1223.github.io/blog</id>
  <author>
    <name>Cheng Gao</name>
-   <email>cgkqp@mail.missouri.edu</email>
+   <email>gaoch1994@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
